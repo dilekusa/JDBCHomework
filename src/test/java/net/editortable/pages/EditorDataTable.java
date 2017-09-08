@@ -45,5 +45,6 @@ public class EditorDataTable {
 
 	@FindBy(css = "input[type='search']")
 	public WebElement search;
+	
 
 }

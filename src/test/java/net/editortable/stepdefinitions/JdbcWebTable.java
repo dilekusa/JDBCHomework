@@ -144,6 +144,7 @@ public class JdbcWebTable {
 			
 			
 			homePage.search.clear();
+			System.out.println("Bonjour!");
 
 		}
 	}
